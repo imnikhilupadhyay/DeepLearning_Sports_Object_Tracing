@@ -12,3 +12,5 @@ Defining and training deep learning models (such as neural networks) using PyTor
 Optionally exporting models to ONNX format for inference with ONNX Runtime DirectML, enabling GPU acceleration on AMD hardware.
 Evaluating model performance and visualizing results.
 The notebook is structured to help users leverage AMD GPUs for efficient deep learning experimentation on Windows platforms
+
+<img width="1796" height="920" alt="image" src="https://github.com/user-attachments/assets/fa7f1b43-415e-4e81-9e1a-c666a7757079" />
