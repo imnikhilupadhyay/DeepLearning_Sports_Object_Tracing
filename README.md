@@ -13,4 +13,5 @@ Optionally exporting models to ONNX format for inference with ONNX Runtime Direc
 Evaluating model performance and visualizing results.
 The notebook is structured to help users leverage AMD GPUs for efficient deep learning experimentation on Windows platforms
 
-<img width="1796" height="920" alt="image" src="https://github.com/user-attachments/assets/fa7f1b43-415e-4e81-9e1a-c666a7757079" />
+<img width="1788" height="878" alt="image" src="https://github.com/user-attachments/assets/e098745b-fb67-4938-9329-b7b16732f862" />
+
