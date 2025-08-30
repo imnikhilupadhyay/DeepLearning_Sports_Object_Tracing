@@ -1,4 +1,4 @@
-# DeepLearning_Sports_Object_Tracing
+# DeepLearning Sports Object Tracing
 
 The notebook run_experiment.ipynb is designed to run deep learning experiments, likely for a badminton-related project. Based on the context and typical structure, here’s a description:
 
